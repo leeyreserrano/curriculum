@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html lang="ca">
+<head>
+</head>
+<body>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .left-column {
+            background-color: #ffe3e3;
+            padding: 20px;
+            width: 30%;
+            text-align: center;
+        }
+
+        .left-column img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+
+        .left-column h2 {
+            margin: 10px 0;
+            font-size: 1.5em;
+            color: #333;
+        }
+
+        .left-column p {
+            font-size: 0.9em;
+            margin: 10px 0;
+            color: #555;
+        }
+
+        .left-column h3 {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #000000;
+        }
+
+        .left-column ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .left-column ul li {
+            margin: 10px 0;
+            font-size: 0.9em;
+        }
+
+        .right-column {
+            padding: 20px;
+            width: 70%;
+        }
+
+        .right-column h1 {
+            font-size: 2em;
+            color: #000000;
+            margin: 0;
+        }
+
+        .right-column h2 {
+            font-size: 1.5em;
+            margin: 20px 0;
+            color: #333;
+            border-bottom: 2px solid #ffe3e3;
+            padding-bottom: 5px;
+        }
+
+        .right-column ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .right-column ul li {
+            margin-bottom: 15px;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #000000;
+        }
+    </style>
+    <link rel="CurriculumLeyreSerranno" href= "style.css">
+    </body>
+    </html>
